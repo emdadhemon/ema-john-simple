@@ -1,0 +1,22 @@
+.header{
+    height: 80px;
+    background: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+nav.header a{
+    color: white;
+    text-decoration: none;
+    margin-left: 32px;
+    letter-spacing: 0.005em;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav.header a:hover{
+    color: burlywood;
+}
