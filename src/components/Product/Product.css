@@ -57,6 +57,10 @@
     bottom: 0;
     width: 100%;
     margin-top: 8px;
+    padding: 10px;
+    color: #2A414F;
+    border: none;
+    
 }
 .btn-cart:hover{
     background-color: orange;

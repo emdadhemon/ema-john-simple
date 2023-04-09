@@ -1,0 +1,37 @@
+.review-item{
+    width: 571px;
+    border : 1px solid black;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.review-detail{
+    flex-grow: 1;
+}
+
+.review-item img {
+    height: 91px;
+    width:  91px;
+    border-radius: 8px;
+
+}
+
+.review-item button{
+    background-color: rgb(226, 183, 183);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.font-trash{
+    color: brown;
+    font-size: 18px;
+    padding: 10px;
+}
+.orange-text{
+    color: orange;
+    padding-left: 5px;
+}
